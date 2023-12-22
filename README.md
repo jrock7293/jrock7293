@@ -1,10 +1,12 @@
 - 👋 Hola, Soy @jrock7293.
 - 👀 Estoy interesado en el Desarrollo Web.
-- 🌱 Actualmente aprendiendo Laravel, React, Vue y .NET.
+- 🎓 Soy Ing. Sistemas.
+- ✅ Tengo conocimiento en PHP, HTML, CSS, Javascript, SQL.
+- 🌱 Actualmente aprendiendo Laravel, Python, Django.
 - 💞️ Busco colaborar en diversos proyectos como Desarrollador Front End, Back End o Full Stack.
 - 📫 Puedes contactarme por los siguentes medios:
     - :email: escorcha93@gmail.com
-    - :calling: +58 412-360-8601
+    - :message: +58 412-360-8601
     - :link: https://www.linkedin.com/in/escorchaj
 
 <!---
